@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!This is Maven Project..!!!</h2>
+<h2>Hello Swathi..!!!!</h2>
 </body>
 </html>
